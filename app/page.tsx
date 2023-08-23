@@ -191,7 +191,7 @@ export default function Home() {
           </div>
           </SwiperSlide>
         </Swiper>
-        
+        {/* modifi ok #3 */}
       </section>
     </div>
   );
